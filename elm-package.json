@@ -1,9 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "A simple example showing how to get a webcam videofeed
-                working in elm.
-                For a more detailed description, check out the repository or
-                the blog article.",
+    "summary": "A simple example showing how to get a webcam videofeed working in elm.",
     "repository": "https://github.com/BeardedPlatypus/elm-webcam-example.git",
     "license": "MIT",
     "source-directories": [
