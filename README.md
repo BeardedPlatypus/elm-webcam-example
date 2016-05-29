@@ -15,6 +15,7 @@ The code is written for Elm 0.17 and use of the elm-lang/html library.
 
 In order to run the code locally you will have to run a simple HTTPS server,
 for example with python. 
+
 Furthermore, in order for the code to work you will need to use a browser that
 supports [navigator.getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getUserMedia)
 Most modern browser will support this however, so this should not be a problem.
