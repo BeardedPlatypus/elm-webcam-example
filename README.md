@@ -7,7 +7,7 @@ A blog article detailing the implementation can be found here:
 [Blog Article]()
 
 An example of this code running in your browser can be found here:  
-[Demo page]()
+[Demo page](https://maartentegelaers.me/elm-webcam-example/)
 
 Prerequisites
 -------------
